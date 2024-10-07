@@ -1,9 +1,9 @@
 // /QUESRTIOPN 1
-var a = +prompt("Enter a positive number")
-console.log("Number: " + a);
-console.log("Round off value: " + a.round());
-console.log("floor value of the number" + a.float());
-console.log("ceil value of the number: " + a.ceil());
+// var a = +prompt("Enter a positive number")
+// console.log("Number: " + a);
+// console.log("Round off value: " + a.round());
+// console.log("floor value of the number" + a.float());
+// console.log("ceil value of the number: " + a.ceil());
 
 
 // QUESTION 2
